@@ -89,8 +89,8 @@ DistilBERT achieved the best overall performance, while TF-IDF with Logistic Reg
 Clone the repository:
 
 ```bash
-git clone https://github.com/AyanRoy02/ai-generated-text-detection.git
-cd ai-generated-text-detection
+git clone https://github.com/AyanRoy02/ai-generated-fantasy-text-detection.git
+cd ai-generated-fantasy-text-detection
 ```
 
 Install the required libraries:
